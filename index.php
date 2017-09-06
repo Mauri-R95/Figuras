@@ -3,7 +3,6 @@
 <head>
 	<title>Calculo Figuras</title>
 </head>
-</style>
 <script type="text/javascript">
 	function Mostrar_cu(){
 		document.getElementById("cal_cu").style.display = "block";
