@@ -2,10 +2,6 @@
 <html>
 <head>
 	<title>Calculo Figuras</title>
-<style type="text/css">
-	
-	.imprimir(background-image:url() )
-
 </head>
 </style>
 <script type="text/javascript">
